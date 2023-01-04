@@ -1,9 +1,11 @@
 *{
     box-sizing: border-box;
 }
+
 body{
-    width:100%;
+    max-width: 1240px;
 }
+
 /** STYLE FOTO PRINCIPAL Y SOBRE MI*/
 #cabeza{
     text-align: center;
@@ -124,6 +126,7 @@ h6{
 /** STYLE PARA LO REFERENTE A SKILLS*/
 #costado{
     height: 100%;
+    width: 40%;
     background-color:rgb(241, 240, 244);
     border-radius: 5%;
 }
