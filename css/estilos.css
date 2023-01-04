@@ -182,6 +182,10 @@ h6{
     #responsive2{
         font-size:10px;
     }
+
+    #responsive2{
+        font-size:8px;
+    }
     
     #mostrar,#mostrar2,#mostrar3,#mostrar4,#mostrar5{
         height: 15px;
@@ -199,7 +203,7 @@ h6{
     #letras{
         font-family: 'Anton', sans-serif;
         font-family: 'Fredoka One', cursive;
-        font-size:8px;
+        font-size:7px;
     }
     #skills{
         margin-left: 0px;
