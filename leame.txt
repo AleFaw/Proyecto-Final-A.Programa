@@ -1,5 +1,6 @@
 ¡Primero que nada, saludo a quien corresponda y este encargado de corregir mi proyecto!
 Quisiera comentar que al ya tener experiencia previa con Bootstrap decidí jugármela más a practicar CSS que soy extremadamente nuevo,
-por lo tanto, todo el diseño y el responsive lo hice manualmente (funciona bien con pantallas de 544px en adelante) para pantallas
+por lo tanto, todo el diseño y el responsive lo hice manualmente (funciona bien con pantallas de 340px en adelante) para pantallas
 más pequeñas me costó más lograr adaptarlo, espero que sea de su agrado y se note el esfuerzo y dedicación dado en el proyecto.
 muchas gracias!
+PD: lo probe desde mi celular y funciona bien y comodo!
