@@ -10,7 +10,7 @@ body{
     width:100%;
 }
 .sobreMi{
-    color: white;
+    color: black;
     font-size: 20px;
     font-family: 'Anton', sans-serif;
     font-family: 'Fredoka One', cursive;
@@ -82,7 +82,7 @@ h6{
     text-align: justify;
 }
 
-#mostrar,#mostrar2,#mostrar3,#mostrar4{
+#mostrar,#mostrar2,#mostrar3,#mostrar4,#mostrar5{
     height: 25px;
     width: 40px;
     text-align: left;
@@ -94,7 +94,7 @@ h6{
     display: none;
 }
 
-#competencias{
+#competencias, #redesSociales{
     margin-left: 15px;
     text-align: justify;
     display: block;
@@ -125,6 +125,7 @@ h6{
 #costado{
     height: 100%;
     background-color:rgb(241, 240, 244);
+    border-radius: 5%;
 }
 
 

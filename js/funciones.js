@@ -83,3 +83,17 @@ document.getElementById('mostrar4').onclick=function(){
         document.getElementById('mostrar4').src='img/flecha2.png';
     }
 }
+
+var ocultar5=true;
+
+document.getElementById('mostrar5').onclick=function(){
+    if(ocultar5){
+        document.getElementById('redesSociales').style='display:none';
+        ocultar5=false;
+        document.getElementById('mostrar5').src='img/flecha.png';
+    } else {
+        document.getElementById('redesSociales').style='display:block';
+        ocultar5=true;
+        document.getElementById('mostrar5').src='img/flecha2.png';
+    }
+}
