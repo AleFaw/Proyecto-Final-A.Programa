@@ -1,0 +1,135 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    width:100%;
+}
+/** STYLE FOTO PRINCIPAL Y SOBRE MI*/
+#cabeza{
+    text-align: center;
+    width:100%;
+}
+.sobreMi{
+    color: white;
+    font-size: 20px;
+    font-family: 'Anton', sans-serif;
+    font-family: 'Fredoka One', cursive;
+}
+
+#contenedorF{
+    height: 140px;
+    width: 100%;
+    background-color: rgba(132, 151, 176, 0.5);
+    text-align: center;
+}
+
+.redondearImg{
+    display: block;
+    margin: 12px auto;
+    border-radius: 70%;
+    height: 120px;
+    width: 120px;
+}
+
+/** STYLE ICONOS DE INFORMACION PERSONAL*/
+.infoP{
+    display: block;
+    margin: 12px auto;
+    height: 40px;
+    width: 45px;
+}
+
+#acomDato{
+    margin-top: 5px;
+    color: gray;
+}
+
+#datosPriv{
+    color: black;
+    font-size: 40px;
+    font-family: 'Anton', sans-serif;
+    font-family: 'Fredoka One', cursive;
+}
+
+
+/** STYLE PIE DE PAGINA*/
+footer {
+    position: fixed;
+    bottom: 0px;
+    vertical-align: bottom;
+    height: 40px;
+    width: 100%;
+    background-color: rgba(132, 151, 176, 0.5);
+}
+
+#redS{
+    text-align:center;
+}
+
+#contacto{
+    margin-top: 3px;
+    margin-left: 5px;
+    margin-right: 5px;
+    height: 35px;
+    width: 35px;
+}
+/** STYLE TITULOS SECCIONES*/
+h4{
+    margin-left: 9px;
+}
+
+h6{
+    text-align: justify;
+}
+
+#mostrar,#mostrar2,#mostrar3,#mostrar4{
+    height: 25px;
+    width: 40px;
+    text-align: left;
+}
+
+#perfil,#educacion,#experiencia{
+    margin-left: 20px;
+    text-align: justify;
+    display: none;
+}
+
+#competencias{
+    margin-left: 15px;
+    text-align: justify;
+    display: block;
+}
+
+#duracion{
+    font-size: 10px;
+}
+
+/** STYLE SKILLS*/
+#skills{
+    margin-left: 50px;
+}
+#letras{
+    font-family: 'Anton', sans-serif;
+    font-family: 'Fredoka One', cursive;
+}
+
+/** STYLE SEPARADOR ENTRE SECCIONES*/
+.separador{
+    margin: 10px;
+    height: 2px;
+    width: 98%;
+    background-color: rgba(132, 151, 176, 0.5);
+}
+
+/** STYLE PARA LO REFERENTE A SKILLS*/
+#costado{
+    height: 100%;
+    background-color:rgb(241, 240, 244);
+}
+
+
+
+
+
+
+
